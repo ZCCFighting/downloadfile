@@ -1,2 +1,4 @@
 # downloadfile
-爬取港股上市公司年报pdf文件
+pdf_download.py通过披露易网站爬取港股上市公司年报pdf文件
+read_pdf_tables.py 读取年报中对应书签的表格数据，并根据关键词进行提取
+将提取的数据导出到excel文件
